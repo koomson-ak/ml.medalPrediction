@@ -1,0 +1,1 @@
+This is a machine learning project that uses Linear Regression to predict medals that countries will win in the olympics with 2 factors - no. of athletes participating and the previous medals won by the country.
